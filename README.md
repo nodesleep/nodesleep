@@ -5,6 +5,6 @@
 - 🔭 I’m currently working at **OpenTeknik**
 - 🌱 I’m currently learning **TypeScript**
 - 👯 I’m looking to collaborate on **anything open source**
-- 💬 Ping me about **design, frontend, backend, React, Next.js, Vue, HTML/CSS, Node
+- 💬 Ping me about **design, frontend, backend, React, Next.js, Vue, HTML/CSS, Node**
 - 📫 Reach me: sweet@openteknik.com
 - ⚡ Fun fact: I'm terrible at every video game I play
