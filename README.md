@@ -2,7 +2,7 @@
 
 #### I'm a FullStack Developer working somewhere between my office and the kitchen in Davenport, Iowa, USA.
 
-- 🔭 I’m currently working at **OpenTeknik**, but am open to opportunities
+- 🌪️ I'm the creator and maintainer of [TornadoTrax](https://github.com/themattbook/tornadotrax), an app that shows the damage paths of tornadoes in the US.
 - 🌱 I’m currently creating an app that connects users to **Amazon Coupons**
 - 👯 I’m looking to collaborate on **anything open source**
 - 💬 Ping me about **design, frontend, backend, React, Next.js, Vue, HTML/CSS, Node, Sass, or Tailwindcss**
