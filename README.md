@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a FullStack Developer working somewhere between my office and the kitchen in Davenport, Iowa, USA.
+#### I'm a FullStack Developer working somewhere between my office and the kitchen in Schaumburg, Illinois, USA.
 
 - 🌪️ I'm the creator and maintainer of [TornadoTrax](https://github.com/themattbook/tornadotrax), an app that shows the damage paths of tornadoes in the US.
 - 🌱 I’m currently creating an app that connects users to **Amazon Coupons**
