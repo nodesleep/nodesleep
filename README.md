@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="https://github.com/nodesleep/nodesleep/blob/main/header.png" alt="Nodesleep GitHub README header image">
 
 #### I'm a FullStack Developer working somewhere between my office and the kitchen in Schaumburg, Illinois, USA.
 
