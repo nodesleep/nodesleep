@@ -5,7 +5,7 @@
 #### I'm a FullStack Developer working somewhere between my office and my vehicle in Schaumburg, Illinois, USA.
 
 - 🌪️ I'm the creator and maintainer of [TornadoTrax](https://github.com/themattbook/tornadotrax), an app that shows the damage paths of tornadoes in the US.
-- 👯 I’m looking to collaborate on **anything open source**
+- 👯 I’m co-owner of OpenTeknik; the company behind Open Source Social Network (OSSN)
 - 💬 Ping me about **design, frontend, backend, React, Next.js, Vue, HTML/CSS, Node, Sass, or Tailwindcss**
 - 📫 Reach me: sweet@openteknik.com
 - ⚡ Fun fact: I'm pursuing a bachelor's degree in Psychology
