@@ -8,7 +8,6 @@
 - 🌪️ I'm the creator and maintainer of [TornadoTrax](https://github.com/themattbook/tornadotrax), an app that shows the damage paths of tornadoes in the US.
 - 👯 I’m co-owner of OpenTeknik; the company behind Open Source Social Network (OSSN)
 - 💬 Ping me about **design, frontend, backend, React, Next.js, Vue, HTML/CSS, Node, Sass, or Tailwindcss**
-- 📫 Reach me: sweet@openteknik.com
 - ⚡ Fun fact: I'm pursuing a bachelor's degree in Psychology
 - 🪐 I'm obsessed with outer space, cosmology, astronomy, meteorology, rockets, and music
 - 🎸 I'm a guitarist who loves Surf Music, Spaghetti Western Soundtracks, and the Grateful Dead
