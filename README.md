@@ -12,6 +12,8 @@
 - 🪐 I'm obsessed with outer space, cosmology, astronomy, meteorology, rockets, and music
 - 🎸 I'm a guitarist who loves Surf Music, Spaghetti Western Soundtracks, and the Grateful Dead
 
+#### Here's the long version
+
 Currently, I am pursuing a Master of Science in Clinical Psychology at the University of California-Berkeley to study the human mind and how it responds to the world around us; seeking out new and innovative methods of discovery behind the ever-so-complex system of neurons, transmitters, and pathways. My undergraduate degree was a Bachelor of Science in Computer Science from the University of Alabama and a Bachelor of Science in Psychology from the International Open University.
 
 Prior to beginning graduate school, I spent nearly two decades as a software engineer in Silicon Valley, Startups, and Freelancing. I've created tools and companies to improve social media interactions and formed companies dedicated to Open Source; including OpenTeknik, the company responsible for the creation and ongoing maintenance of the Open Source Social Network. I worked as an engineer for Apple, transitioning the MobileMe platform to what we call iCloud today. My most recent professional project being a fullstack developer for DFN Freight Exchange, where I joined the team and spearheaded development of DFNX, their flagship freight exchange application built using TypeScript and Vue 3.
