@@ -1,4 +1,4 @@
-<img src="https://github.com/nodesleep/nodesleep/blob/main/banner.png" alt="Nodesleep GitHub README header image">
+<img src="https://github.com/nodesleep/nodesleep/blob/main/banner.webp" alt="Nodesleep GitHub README header image">
 
 #### I'm a FullStack Developer working somewhere between my office and my vehicle in Schaumburg, Illinois, USA.
 
